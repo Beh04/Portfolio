@@ -7,6 +7,6 @@ Segue abaixo meu singelo portfolio de projetos de dados
 ## Projetos de Ciência de Dados:
 [Machine Learning para previsão de preços com SQL Server e Python](https://github.com/Beh04/Python_SQL/tree/main)
 
-[Machine Learning para previsão de vendas de produtos durante o ano]()
+[Machine Learning para previsão de vendas de produtos para o ano](https://github.com/Beh04/Random-Forest-Regression)
 
 
